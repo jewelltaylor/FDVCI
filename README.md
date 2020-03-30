@@ -7,4 +7,6 @@ Preliminary results from testing the package include:
 
 ![image](https://user-images.githubusercontent.com/34798787/77959987-854fef00-72a5-11ea-8221-86c9def30a61.png)
 
+![image](https://user-images.githubusercontent.com/34798787/77960279-014a3700-72a6-11ea-8f32-d64c418c544a.png)
+
 
