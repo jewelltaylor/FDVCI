@@ -3,4 +3,4 @@ The following R package, FDVCI, was developed as a part of my undergraduate thes
 
 ## Results
 Preliminary results from testing the package include: 
-<img width="750" alt="Screen Shot 2020-03-30 at 4 34 52 PM" src="https://user-images.githubusercontent.com/34798787/77959648-efb45f80-72a4-11ea-8c9d-1ff0be75f677.png">
+![image](https://user-images.githubusercontent.com/34798787/77959847-4a4dbb80-72a5-11ea-8e2a-db81b4757bd8.png)
